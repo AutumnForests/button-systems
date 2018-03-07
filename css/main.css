@@ -24,3 +24,7 @@ html {
 .btn-ghost:hover {
   background-color: transparent;
 }
+
+a.btn.btn-light {
+  background-color: lightgreen;
+}
